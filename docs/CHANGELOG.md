@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/lundalogik/semantic-release-action/compare/v2.2.0...v2.3.0) (2020-03-12)
+
+
+### Features
+
+* first lime release ([af413cf](https://github.com/lundalogik/semantic-release-action/commit/af413cf974b8c59ad2f27c0d3f4cc413145e8b8a))
+
 # [2.2.0](https://github.com/lundalogik/semantic-release-action/compare/v2.1.3...v2.2.0) (2020-03-12)
 
 
