@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/lundalogik/semantic-release-action/compare/v2.1.3...v2.2.0) (2020-03-12)
+
+
+### Features
+
+* added ability to use the "extends" settings ([516635e](https://github.com/lundalogik/semantic-release-action/commit/516635e02f4413c007abaeb9814ce124097b6849))
+
 ## [2.1.3](https://github.com/cycjimmy/semantic-release-action/compare/v2.1.2...v2.1.3) (2020-01-19)
 
 
