@@ -1,3 +1,10 @@
+## [2.3.3](https://github.com/lundalogik/semantic-release-action/compare/v2.3.2...v2.3.3) (2020-03-12)
+
+
+### Bug Fixes
+
+* removed plugin to avoid npm publish ([841ce6a](https://github.com/lundalogik/semantic-release-action/commit/841ce6a091e7d0cf3b403bbf796d5c8cc94bbc05))
+
 ## [2.3.2](https://github.com/lundalogik/semantic-release-action/compare/v2.3.1...v2.3.2) (2020-03-12)
 
 
