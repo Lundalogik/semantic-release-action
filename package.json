@@ -1,6 +1,6 @@
 {
   "name": "@lundalogik/semantic-release-action",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "GitHub Action for Semantic Release",
   "main": "index.js",
   "scripts": {

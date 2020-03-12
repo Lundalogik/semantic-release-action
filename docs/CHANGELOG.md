@@ -1,3 +1,10 @@
+## [2.3.2](https://github.com/lundalogik/semantic-release-action/compare/v2.3.1...v2.3.2) (2020-03-12)
+
+
+### Bug Fixes
+
+* package scope ([cd51e79](https://github.com/lundalogik/semantic-release-action/commit/cd51e7949df07c15f537a2a6029ebd67748a467c))
+
 ## [2.3.1](https://github.com/lundalogik/semantic-release-action/compare/v2.3.0...v2.3.1) (2020-03-12)
 
 
