@@ -1,5 +1,5 @@
 {
-  "name": "@cycjimmy/semantic-release-action",
+  "name": "@lundalogik/semantic-release-action",
   "version": "2.3.0",
   "description": "GitHub Action for Semantic Release",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cycjimmy/semantic-release-action.git"
+    "url": "git+https://github.com/lundalogik/semantic-release-action.git"
   },
   "keywords": [
     "semantic-release",
     "action"
   ],
-  "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
+  "author": "lundalogik <cycjimmy@gmail.com> (https://github.com/lundalogik)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cycjimmy/semantic-release-action/issues"
+    "url": "https://github.com/lundalogik/semantic-release-action/issues"
   },
-  "homepage": "https://github.com/cycjimmy/semantic-release-action#readme",
+  "homepage": "https://github.com/lundalogik/semantic-release-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@cycjimmy/awesome-js-funcs": "^2.3.0"
