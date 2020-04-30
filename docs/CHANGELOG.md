@@ -1,3 +1,18 @@
+# [2.4.0](https://github.com/lundalogik/semantic-release-action/compare/v2.3.3...v2.4.0) (2020-04-30)
+
+
+### Bug Fixes
+
+* rescope ([5b03139](https://github.com/lundalogik/semantic-release-action/commit/5b03139fd6315e473f63aef85e09979866c323ba))
+* rescope to 'lundalogik' ([e951df7](https://github.com/lundalogik/semantic-release-action/commit/e951df784f33e2dc789287bf9d00baeee4181580))
+
+
+### Features
+
+* added ability to use the "extends" settings ([32db8a4](https://github.com/lundalogik/semantic-release-action/commit/32db8a49b25f46b98a901084ada97b6aa7343813))
+* **branches:** support branches of semantic-release v16+ ([706c0ef](https://github.com/lundalogik/semantic-release-action/commit/706c0ef960497657ddf0655d0a69732323d93238)), closes [#24](https://github.com/lundalogik/semantic-release-action/issues/24) [#25](https://github.com/lundalogik/semantic-release-action/issues/25)
+* add release notes to output ([a56320d](https://github.com/lundalogik/semantic-release-action/commit/a56320d643d6a8e0c688a84f18449153865b8bc4))
+
 # [2.3.0](https://github.com/lundalogik/semantic-release-action/compare/v2.2.0...v2.3.0) (2020-03-21)
 
 ### Features
