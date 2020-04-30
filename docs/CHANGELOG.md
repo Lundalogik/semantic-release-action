@@ -1,37 +1,16 @@
-## [2.3.3](https://github.com/lundalogik/semantic-release-action/compare/v2.3.2...v2.3.3) (2020-03-12)
-
-
-### Bug Fixes
-
-* removed plugin to avoid npm publish ([841ce6a](https://github.com/lundalogik/semantic-release-action/commit/841ce6a091e7d0cf3b403bbf796d5c8cc94bbc05))
-
-## [2.3.2](https://github.com/lundalogik/semantic-release-action/compare/v2.3.1...v2.3.2) (2020-03-12)
-
-
-### Bug Fixes
-
-* package scope ([cd51e79](https://github.com/lundalogik/semantic-release-action/commit/cd51e7949df07c15f537a2a6029ebd67748a467c))
-
-## [2.3.1](https://github.com/lundalogik/semantic-release-action/compare/v2.3.0...v2.3.1) (2020-03-12)
-
-
-### Bug Fixes
-
-* fixes wrong scope ([0e94a2a](https://github.com/lundalogik/semantic-release-action/commit/0e94a2a15127f165567007320cff6c024718ec4d))
-
-# [2.3.0](https://github.com/lundalogik/semantic-release-action/compare/v2.2.0...v2.3.0) (2020-03-12)
+# [2.3.0](https://github.com/cycjimmy/semantic-release-action/compare/v2.2.0...v2.3.0) (2020-03-21)
 
 
 ### Features
 
-* first lime release ([af413cf](https://github.com/lundalogik/semantic-release-action/commit/af413cf974b8c59ad2f27c0d3f4cc413145e8b8a))
+* **branches:** support branches of semantic-release v16+ ([706c0ef](https://github.com/cycjimmy/semantic-release-action/commit/706c0ef960497657ddf0655d0a69732323d93238)), closes [#24](https://github.com/cycjimmy/semantic-release-action/issues/24) [#25](https://github.com/cycjimmy/semantic-release-action/issues/25)
 
-# [2.2.0](https://github.com/lundalogik/semantic-release-action/compare/v2.1.3...v2.2.0) (2020-03-12)
+# [2.2.0](https://github.com/cycjimmy/semantic-release-action/compare/v2.1.3...v2.2.0) (2020-03-15)
 
 
 ### Features
 
-* added ability to use the "extends" settings ([516635e](https://github.com/lundalogik/semantic-release-action/commit/516635e02f4413c007abaeb9814ce124097b6849))
+* add release notes to output ([a56320d](https://github.com/cycjimmy/semantic-release-action/commit/a56320d643d6a8e0c688a84f18449153865b8bc4))
 
 ## [2.1.3](https://github.com/cycjimmy/semantic-release-action/compare/v2.1.2...v2.1.3) (2020-01-19)
 

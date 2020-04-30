@@ -23,9 +23,9 @@ const release = async () => {
 
   const semanticRelease = require('semantic-release');
   const result = await semanticRelease({
-    ...handleBranchOption(),
-    ...handleDryRunOption(),
-    ...handleExtends()
+    ...(handleBranchOption()),
+    ...(handleDryRunOption()),
+    ...(handleExtends()),
   });
 
   await cleanupNpmrc();
